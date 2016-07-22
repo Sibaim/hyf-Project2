@@ -17,10 +17,14 @@ Food ingredients detector if Halal or not.
 3. others: *filtering data depending on status/types*
 
 ## Used Technologies
-* FrontEnd --> *HTML, CSS, Angularjs*
+* Front --> *HTML, CSS, Angularjs*
 
-* BackEnd --> *JavaScript, MongoDB, Nodejs*
+* Back --> *JavaScript, MongoDB, Nodejs*
 
 ## API resourse
-it will be created manually as JSON file/inserted as database (mongoDB)
+It will be created manually as JSON file/inserted as database (mongoDB)
 
+
+#### Done By
+Marwa Muhallaya.
+-class2-
