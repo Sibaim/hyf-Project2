@@ -14,7 +14,9 @@ Food ingredients detector if Halal or not.
 
 2. R2: *Input place for code testing by the user*
 
-3. others: *filtering data depending on status/types*
+3. R3: *Show Halal stores nearby depending on user location*
+4. R4: *(extra) Adding stores by user-approved by page admin*
+
 
 ## Used Technologies
 * Front --> *HTML, CSS, Angularjs*
@@ -25,6 +27,4 @@ Food ingredients detector if Halal or not.
 It will be created manually as JSON file/inserted as database (mongoDB)
 
 
-#### Done By
-Marwa Muhallaya.
--class2-
+
