@@ -10,12 +10,14 @@ While the increased number of refugees comming to Europe, I have noticed around 
 Food ingredients detector if Halal or not.
 
 ## Functional Requirments
-1. R1: *Display data of some food with status* 
+1. R1: ***Display data of some food with status*** 
 
-2. R2: *Input place for code testing by the user*
-
-3. R3: *Show Halal stores nearby depending on user location*
-4. R4: *(extra) Adding stores by user-approved by page admin*
+2. R2: ***Input place for code testing by the user***
+where the user has to write the E-code number of his product in a text box and press enter to see the result which contains"status, name and other details.
+3. R3: ***Show Halal stores nearby depending on user location***
+it will be by load, when the webpage is loaded it will find the user location and show him where there are halal stores near by his location.
+4. R4: ***(extra) Adding stores by user-approved by page admin***
+any visitor can add new store by his own and fill a form, and then webpage admin has to login and approve these addition if they are as well.
 
 
 ## Used Technologies
